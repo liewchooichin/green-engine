@@ -17,7 +17,9 @@
     },
     "vscode": {
       "extensions": [
-        "ms-python.python"
+        "ms-python.python",
+        "ms-azuretools.azure-dev",
+        "ms-vscode.azurecli"
       ]
     }
   },
